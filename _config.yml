@@ -127,7 +127,7 @@ deploy:
   type: git
   repo: 
     Github: https://github.com/lylblog/lylblog.github.io.git
-    #    gitee: https://gitee.com/gitlyl/liuyanliang.git
+    #    gitee: https://gitee.com/gitlyl/gitlyl.git
   branch: master
 
 
